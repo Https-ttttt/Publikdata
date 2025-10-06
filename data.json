@@ -1,0 +1,11 @@
+{
+  "keys": [
+    { "key": "ASEP", "expires": null },
+    { "key": "VIP30", "expires": 9999999999999 }
+  ],
+  "apps": [
+    { "title": "Free Fire", "link": "https://play.google.com/store/apps/details?id=com.dts.freefireth" },
+    { "title": "Mobile Legends", "link": "https://play.google.com/store/apps/details?id=com.mobile.legends" },
+    { "title": "Genshin Impact", "link": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact" }
+  ]
+}
